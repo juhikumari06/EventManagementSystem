@@ -11,4 +11,8 @@ class EventManagementSystemApplicationTests {
 		// logic to test
 	}
 
+	@Test
+	void contextLoads2() {
+		// logic to test
+	}
 }
