@@ -8,6 +8,7 @@ class EventManagementSystemApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// logic to test
 	}
 
 }
